@@ -5,6 +5,6 @@
         "email": "abcdef101198@gmail.com"
     },
     "records": {
-        "CNAME": "fbd7d6f1747b9d0c7bd1e93ca49e11"
+         "TXT": "fbd7d6f1747b9d0c7bd1e93ca49e11"
     }
 }
